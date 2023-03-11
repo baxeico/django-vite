@@ -1,0 +1,2 @@
+# Ignore static because here Vite.js will save compiled assets.
+static/
